@@ -1,0 +1,6 @@
+*.pyo
+*.pyc
+*.txt
+*.tree
+*.tree.check
+.vscode
