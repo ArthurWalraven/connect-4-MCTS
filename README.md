@@ -6,8 +6,9 @@
 
 - [OpenAi Gym](https://gym.openai.com/)
 - [Numpy](https://numpy.org/)
+- [Numba](https://numba.pydata.org/)
 ```
-python3 -m pip install numpy gym
+python3 -m pip install numpy gym numba
 ```
 
 ## Running
