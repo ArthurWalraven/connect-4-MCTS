@@ -11,7 +11,7 @@ python3 -m pip install numpy gym
 ```
 
 ## Running
-```
+```sh
 python3 main.py
 ```
 (In 'Human input' modes, `z` undo the last move of the player using the command)
